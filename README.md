@@ -86,7 +86,7 @@ This project is licensed under the [`MIT License`](LICENSE).
 
 ```text
 MIT License
-Copyright (c) 2024 Hoàng Anh Tiến
+Copyright (c) 2024 Yashvardhan
 ```
 
 
